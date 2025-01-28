@@ -1,44 +1,43 @@
 - name: Specification & Architecture
-  link: topics/specification.md
+  link: /topics/specification/
   description: Define system-level requirements, architecture, and performance constraints.
 
 - name: RTL Design
-  link: topics/rtl_design.md
+  link: /topics/rtl_design/
   description: Write SystemVerilog/VHDL for the circuit logic.
 
 - name: Functional Verification
-  link: topics/functional_verification.md
+  link: /topics/functional_verification/
   description: Validate RTL behavior using simulation and formal verification.
 
 - name: Logic Synthesis
-  link: topics/logic_synthesis.md
+  link: /topics/logic_synthesis/
   description: Convert RTL to a gate-level netlist optimized for power and performance.
 
 - name: Design for Test (DFT)
-  link: topics/dft.md
+  link: /topics/dft/
   description: Add scan chains, built-in self-test, and fault detection structures.
 
 - name: Physical Design
-  link: topics/physical_design.md
+  link: /topics/physical_design/
   description: Convert netlist into an optimized physical layout for fabrication.
 
 - name: Tape-Out & Signoff
-  link: topics/tapeout.md
+  link: /topics/tapeout/
   description: Run final design checks and prepare GDSII files for the foundry.
 
 - name: Fabrication
-  link: topics/fabrication.md
+  link: /topics/fabrication/
   description: Manufacture silicon wafers using photolithography and deposition.
 
 - name: Packaging & Assembly
-  link: topics/packaging.md
+  link: /topics/packaging/
   description: Protect and connect the die using flip-chip, wire bonding, or other techniques.
 
 - name: Post-Silicon Validation
-  link: topics/post_silicon.md
+  link: /topics/post_silicon/
   description: Test real silicon for performance, power, and reliability.
 
 - name: Mass Production
-  link: topics/mass_production.md
+  link: /topics/mass_production/
   description: Scale up manufacturing and distribute the final product.
-
