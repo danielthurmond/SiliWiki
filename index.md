@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Integrated Circuit (IC) Design Process
-The following steps outline the journey from **specifications** to a **manufactured chip**:
+The journey from **specifications** to a **manufactured chip** involves multiple steps:
 
 <div class="process-grid">
   {% for step in site.data.ic_design_steps %}
