@@ -1,9 +1,9 @@
 ---
-title: specification
+title: rtl_design
 layout: default
 ---
 
-# Transistor Basics
+# rtl_design
 Write SystemVerilog/VHDL for the circuit logic.
 
 
