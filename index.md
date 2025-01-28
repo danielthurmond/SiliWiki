@@ -1,16 +1,20 @@
 ---
-title: SiliWiki
+title: SiliWiki - IC Design Process
 layout: default
 ---
 
-# Welcome to SiliWiki
-A knowledge base for semiconductor topics. Click on a topic below to learn more.
+# Integrated Circuit (IC) Design Process
+The following steps outline the journey from **specifications** to a **manufactured chip**:
 
-## Topics
-- [ALU](topics/alu.md)
-- [RISC-V](topics/riscv.md)
-- [Digital Logic](topics/digital_logic.md)
-- [Fabrication](topics/fabrication.md)
-- [Transistors](topics/transistorBasics.md)
+<div class="process-grid">
+  {% for step in site.data.ic_design_steps %}
+    <div class="process-card">
+      <a href="{{ step.link }}">
+        <h3>{{ step.name }}</h3>
+        <p>{{ step.description }}</p>
+      </a>
+    </div>
+  {% endfor %}
+</div>
 
 [🔙 Back to Main Page](https://danielthurmond.github.io/)
