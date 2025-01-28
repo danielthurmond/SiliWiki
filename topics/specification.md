@@ -3,7 +3,7 @@ title: specification
 layout: default
 ---
 
-# Transistor Basics
+# Specification
 Define system-level requirements, architecture, and performance constraints.
 
 
