@@ -1,43 +1,54 @@
 - name: Specification & Architecture
-  link: /topics/specification/
+  link: https://danielthurmond.github.io/SiliWiki/specification
+  image: /assets/specification.png
   description: Define system-level requirements, architecture, and performance constraints.
 
 - name: RTL Design
   link: /topics/rtl_design/
+  image: /assets/rtl.png
   description: Write SystemVerilog/VHDL for the circuit logic.
 
 - name: Functional Verification
   link: /topics/functional_verification/
+  image: /assets/verification.png
   description: Validate RTL behavior using simulation and formal verification.
 
 - name: Logic Synthesis
   link: /topics/logic_synthesis/
+  image: /assets/synthesis.png
   description: Convert RTL to a gate-level netlist optimized for power and performance.
 
 - name: Design for Test (DFT)
   link: /topics/dft/
+  image: /assets/dft.png
   description: Add scan chains, built-in self-test, and fault detection structures.
 
 - name: Physical Design
   link: /topics/physical_design/
+  image: /assets/physicaldesign.png
   description: Convert netlist into an optimized physical layout for fabrication.
 
 - name: Tape-Out & Signoff
   link: /topics/tapeout/
+  image: /assets/tapeout.png
   description: Run final design checks and prepare GDSII files for the foundry.
 
 - name: Fabrication
   link: /topics/fabrication/
+  image: /assets/fabrication.png
   description: Manufacture silicon wafers using photolithography and deposition.
 
 - name: Packaging & Assembly
   link: /topics/packaging/
+  image: /assets/packaging.png
   description: Protect and connect the die using flip-chip, wire bonding, or other techniques.
 
 - name: Post-Silicon Validation
   link: /topics/post_silicon/
+  image: /assets/validation.png
   description: Test real silicon for performance, power, and reliability.
 
 - name: Mass Production
   link: /topics/mass_production/
+  image: /assets/production.png
   description: Scale up manufacturing and distribute the final product.
