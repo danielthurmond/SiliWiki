@@ -9,7 +9,7 @@ The journey from **specifications** to a **manufactured chip** involves multiple
 ---
 
 <div class="process-grid">
-  {% for process topic in ic_design_steps %}
+{% for process in site.data.ic_design_steps %}
     <div class="process-card">
       <a href="{{ process.link }}">
         <img src="{{ process.image }}" alt="{{ process.name }}">
