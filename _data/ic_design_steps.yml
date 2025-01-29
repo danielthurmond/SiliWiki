@@ -1,54 +1,54 @@
 - name: Specification & Architecture
-  link: /SiliWiki/topics/specification/
+  link: /SiliWiki/topics/specification.html
   image: /assets/specification.png
   description: Define system-level requirements, architecture, and performance constraints.
 
 - name: RTL Design
-  link: /SiliWiki/topics/rtl_design/
+  link: /SiliWiki/topics/rtl_design.html
   image: /assets/rtl.png
   description: Write SystemVerilog/VHDL for the circuit logic.
 
 - name: Functional Verification
-  link: /SiliWiki/topics/functional_verification/
+  link: /SiliWiki/topics/functional_verification.html
   image: /assets/verification.png
   description: Validate RTL behavior using simulation and formal verification.
 
 - name: Logic Synthesis
-  link: /SiliWiki/topics/logic_synthesis/
+  link: /SiliWiki/topics/logic_synthesis.html
   image: /assets/synthesis.png
   description: Convert RTL to a gate-level netlist optimized for power and performance.
 
 - name: Design for Test (DFT)
-  link: /SiliWiki/topics/dft/
+  link: /SiliWiki/topics/dft.html
   image: /assets/dft.png
   description: Add scan chains, built-in self-test, and fault detection structures.
 
 - name: Physical Design
-  link: /SiliWiki/topics/physical_design/
+  link: /SiliWiki/topics/physical_design.html
   image: /assets/physicaldesign.png
   description: Convert netlist into an optimized physical layout for fabrication.
 
 - name: Tape-Out & Signoff
-  link: /SiliWiki/topics/tapeout/
+  link: /SiliWiki/topics/tapeout.html
   image: /assets/tapeout.png
   description: Run final design checks and prepare GDSII files for the foundry.
 
 - name: Fabrication
-  link: /SiliWiki/topics/fabrication/
+  link: /SiliWiki/topics/fabrication.html
   image: /assets/fabrication.png
   description: Manufacture silicon wafers using photolithography and deposition.
 
 - name: Packaging & Assembly
-  link: /SiliWiki/topics/packaging/
+  link: /SiliWiki/topics/packaging.html
   image: /assets/packaging.png
   description: Protect and connect the die using flip-chip, wire bonding, or other techniques.
 
 - name: Post-Silicon Validation
-  link: /SiliWiki/topics/post_silicon/
+  link: /SiliWiki/topics/post_silicon.html
   image: /assets/validation.png
   description: Test real silicon for performance, power, and reliability.
 
 - name: Mass Production
-  link: /SiliWiki/topics/mass_production/
+  link: /SiliWiki/topics/mass_production.html
   image: /assets/production.png
   description: Scale up manufacturing and distribute the final product.
