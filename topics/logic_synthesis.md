@@ -1,11 +1,14 @@
 ---
-title: logic_synthesis
+title: Logic Synthesis
 layout: default
 ---
 
-# logic_synthesis
-Convert RTL to a gate-level netlist optimized for power and performance.
+# Logic Synthesis
+Logic synthesis converts high-level RTL (Verilog/SystemVerilog) into a gate-level netlist.
 
+## Steps
+- Technology mapping
+- Logic optimization
+- Static Timing Analysis (STA)
 
-
-[🔙 Back to SiliWiki](../index.md)
+[🔙 Back to IC Design Process](../index.md)
