@@ -1,5 +1,5 @@
 ---
-title: siliwiki TESTTEST
+title: siliwiki TEST
 layout: default
 ---
 # Integrated Circuit (IC) Design Process
