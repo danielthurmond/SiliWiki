@@ -1,11 +1,9 @@
 ---
-title: SiliWiki - IC Design Process
+title: siliwiki TESTTEST
 layout: default
 ---
-
 # Integrated Circuit (IC) Design Process
 The journey from **specifications** to a **manufactured chip** involves multiple steps:
-
 ---
 
 <div class="process-grid">
